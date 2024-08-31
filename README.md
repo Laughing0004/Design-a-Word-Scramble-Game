@@ -10,6 +10,13 @@ This is a simple Word Scramble Game built with HTML, CSS, and JavaScript. The ga
 - Users can refresh the word to get a new scrambled word and hint.
 - Feedback is provided based on the user's input.
 
+
+## Live Demo
+
+Check out the live demo of the game [here](https://laughing0004.github.io/Design-a-Word-Scramble-Game/).
+
+
+
 ## Project Structure
 
 The project consists of the following files:
